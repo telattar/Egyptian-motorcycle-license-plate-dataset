@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['License Plate']
+
+roboflow:
+  workspace: toto-fj9hq
+  project: egyptian-license-plate-recognition-in-vehicles-and-motorcycles
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/toto-fj9hq/egyptian-license-plate-recognition-in-vehicles-and-motorcycles/dataset/4
