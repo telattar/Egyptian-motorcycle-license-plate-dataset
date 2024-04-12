@@ -14,7 +14,7 @@ The dataset in this repository is suitable for use with YOLOv8 and possibly othe
 
 This repo has three folders: test, train and valid. each folder contains a fraction of the dataset.
 
-The ```train``` folder contains 80% of the dataset and is used for model training. Meanwhile, both the ```test``` and ```valid`` folders contain 10% of the dataset, and are used for testing and validating the trained model.
+The ```train``` folder contains 80% of the dataset and is used for model training. Meanwhile, both the ```test``` and ```valid``` folders contain 10% of the dataset, and are used for testing and validating the trained model.
 
 Each folder contains two subfolders: ```images``` which contains the photos, and ```labels``` which have .txt files that contain each image's annotation. 
 
